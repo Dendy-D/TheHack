@@ -1,0 +1,12 @@
+{
+  "name": "the-hack",
+  "version": "0.0.1",
+  "main": "",
+  "repository": "",
+  "author": "",
+  "license": "MIT",
+
+  "scripts": {
+    "precommit": "echo '[repo: frontend]: husky is checking you commits......' "
+  }
+}

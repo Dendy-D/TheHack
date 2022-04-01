@@ -1,0 +1,14 @@
+{
+  "name": "the-hack",
+  "version": "0.0.1",
+  "main": "index.ts",
+  "repository": "https://github.com/Dendy-D/TheHack.git",
+  "author": "daniil_vasilenko <daniilvasilenko2@mail.ru>",
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+    "precommit": "echo '[repo: backend]: husky is checking you commits......' ",
+    "dev": "ts-node-dev --respawn ./index.ts",
+    "start": ""
+  }
+}
